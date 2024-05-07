@@ -23,7 +23,7 @@ p{
 }
 #container{
     display: grid;
-    grid-template-columns: 30% auto;
+    grid-template-columns: 35% auto;
     grid-column-gap: 20px;
 
 }
@@ -55,4 +55,7 @@ i{
     flex-direction: column;
     list-style-type: none;
     justify-content: center;
+}
+ul{
+    margin: 10px 50px 20px;
 }
